@@ -85,7 +85,8 @@ exclude:
   - README.md
   - CNAME
 #Theme
-plugins:
-  - jekyll-remote-theme
+#plugins:
+#  - jekyll-remote-theme
 
-remote_theme: vszhub/not-pure-poole
+#remote_theme: vszhub/not-pure-poole
+theme: jekyll-theme-minimal
