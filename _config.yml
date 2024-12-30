@@ -84,3 +84,8 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+#Theme
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: vszhub/not-pure-poole
