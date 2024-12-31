@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <em> Looking through my tainted glass </em>
+title: <em> Looking through my tainted lens </em>
 permalink: /gallery/
 ---
 
