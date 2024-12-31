@@ -78,7 +78,6 @@ gems:
 
 # Exclude these files from your production _site
 exclude:
-  - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
@@ -92,4 +91,5 @@ exclude:
 
 plugins:
 - jekyll-remote-theme
-remote_theme: pages-themes/modernist@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
+# pages-themes/modernist@v0.2.0
