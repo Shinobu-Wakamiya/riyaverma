@@ -10,4 +10,4 @@ Welcome to my corner- full of curiosity, thoughts and nature. Here, you'll find 
 I am currently a Junior Research Fellow at TIFR Hyderabad working in area of biophysics and non-equilibrium statistical mechanics. 
 ### Contact me
 
-[email@domain.com](mailto:riyav9658@gmail.com)
+[riyav9658@gmail.com](mailto:riyav9658@gmail.com)
