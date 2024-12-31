@@ -1,6 +1,6 @@
 ---
 layout: page
-title: *looking through my tainted window*
+title: _looking through my tainted window_
 permalink: /gallery/
 ---
 
